@@ -92,3 +92,10 @@ a{
     font-size: 22px;
     padding-right: 15px;
 }
+i img {
+    width: 30px;
+    height: 30px;
+}
+i img:hover {
+    transform: scale(1.2);
+}
